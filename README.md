@@ -5,6 +5,11 @@
 
 ![screenshot](gcc.png)
 
+Установка C, C++ в Linux:
+```
+sudo apt-get install build-essential
+sudo apt-get install gdb
+```
 
 # Код программы:
 ```
